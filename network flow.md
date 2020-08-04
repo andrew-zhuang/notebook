@@ -10,6 +10,7 @@ modified: '2020-08-04T09:34:46.306Z'
 <img align=center>![avatar](/image/image1-1.png)
 
 首先在残余网络初始化时，构建反向边，如下图所示：
+
 <img align=center>![avatar](/image/image1-2.png)
 
 ## 符号说明
